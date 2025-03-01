@@ -1,0 +1,1 @@
+use /builddll.sh  to build XDDLL and XDDLL.x and run go build
