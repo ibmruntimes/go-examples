@@ -1,0 +1,4 @@
+* text zos-working-tree-encoding=UTF-8
+ccc1.cbl text zos-working-tree-encoding=IBM-1047
+ccc2.cbl text zos-working-tree-encoding=IBM-1047
+ccc.cbl text zos-working-tree-encoding=IBM-1047
