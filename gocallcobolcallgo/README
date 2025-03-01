@@ -1,0 +1,3 @@
+Go calls a COBOL program (built as a dll) passing it a go function pointer which
+COBOL then invokes with arguments which are printed in the Go program.
+build with ./build.sh
